@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aurelian-Nkonde
-- 👀 I’m interested in all kinds of technology especially C#
-- 🌱 I’m currently learning Dotnet stack(C#) and Go
+- 👋 Hi, my name is Aurelian-Nkonde
+- 👀 I’m interested in everything that involves tech
+- 🌱 I’m currently doing the .Net(C#) stack with a bit of Js/Ts
 - 💞️ I’m looking to collaborate on full-stacks projects
 - 📫 you can reach me via email aurelianrobot@gmail.com
 
