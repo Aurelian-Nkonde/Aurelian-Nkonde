@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Aurelian-Nkonde
-- 👀 I’m interested in everything that involves tech
-- 🌱 I’m currently doing the .Net(C#) stack with a bit of Js/Ts
-- 💞️ I’m looking to collaborate on full-stacks projects
-- 📫 you can reach me via email aurelianrobot@gmail.com
+- 👋 Hola, bienvenido. Mi nombre es Aurelian-Nkonde(all spanish that i know lol)
+- 👀 I’m a curious person
+- 🌱 I’m currently working with Typescript/Javascript technologies
+- 💞️ I’m open for any collaborations
+- 📫 here's my email address, aurelianrobot@gmail.com
 
 <!---
 Aurelian-Nkonde/Aurelian-Nkonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
