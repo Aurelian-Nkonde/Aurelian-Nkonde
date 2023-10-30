@@ -1,6 +1,6 @@
-- 👋 Hola, bienvenido. Mi nombre es Aurelian-Nkonde(all spanish that i know lol)
-- 👀 I’m a curious person
-- 🌱 I’m currently working with Typescript/Javascript technologies
+- 👋 Hola, bienvenido. Mi nombre es Aureliano-Nkonde.
+- 👀 I love technology. I love the ups and downs of it. It's never all roses and petals, but I love the comfort of fixing an error that has been racking my head. It's truly a       win for me.
+- 🌱 I’m currently working with javascript and typescript. but i'm also venturing into C(the beginning)
 - 💞️ I’m open for any collaborations
 - 📫 here's my email address, aurelianrobot@gmail.com
 
