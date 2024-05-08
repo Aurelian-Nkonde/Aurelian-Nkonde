@@ -1,7 +1,7 @@
-- 👋 Hola, bienvenido. Mi nombre es Aureliano-Nkonde.
+- 👋 Oi, como vai esta?.
 - 👀 I love technology. I love the ups and downs of it. It's never all roses and petals, but I love the comfort of fixing an error that has been racking my head. It's truly a       win for me.
-- 🌱 I’m currently working with javascript and typescript. but i'm also venturing into C(the beginning)
-- 💞️ I’m open for any collaborations
+- 🌱 I’m currently working with javascript and typescript. but I'm also venturing into C(the beginning)
+- 💞️ I’m open to any collaborations
 - 📫 here's my email address, aurelianrobot@gmail.com
 
 <!---
